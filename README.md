@@ -1,9 +1,10 @@
-# SpaceX Launch Prediction
+# 🚀 SpaceX Launch Prediction
+![SpaceX](https://github.com/ZahraSahranavard/SpaceX-ML/blob/main/Image/SpaceX.jpg)
 
-## Overview
+## 🔹 Project Overview
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each. Much of the savings is because SpaceX can reuse the first stage of the rocket. This project aims to create a machine learning model to predict whether the first stage of the Falcon 9 rocket will successfully land, which can significantly impact the overall cost of a launch.
 
-## Features
+## 📂 Project Structure
 
 -   **Data Preprocessing:** Cleaning and preparing the initial data for model training.
 -   **Feature Engineering:** Creating new features from existing data to improve model performance.
@@ -12,7 +13,7 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 mill
 -   **Model Comparison:** Comparing the performance of different models to select the best one.
 -   **Visualization:** Displaying results using charts and images.
 
-## Algorithms
+## ⚙️ Algorithms Used
 
 The following machine learning algorithms are implemented and compared in this project:
 
@@ -22,7 +23,7 @@ The following machine learning algorithms are implemented and compared in this p
 -   **Logistic Regression:** A linear model that predicts the probability of a binary outcome.
 
 
-## Dependencies
+## 🔗 Dependencies
 
 -   **Python:** The primary programming language for the project.
 -   **Pandas:** For data management and analysis.
@@ -34,4 +35,9 @@ The following machine learning algorithms are implemented and compared in this p
 To install the required libraries, use the following command:
 
 ```bash
+
 pip install pandas matplotlib seaborn scikit-learn
+```
+
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
